@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="toughtstorm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5532b2ab-a6d2-4635-9884-a68660e854d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U4Oa2CASiH29XY8i9zMDS47YYq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/cui/toughtstorm/core" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cui.toughtstorm.core.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alex_\Documents\toughtstorm\src\main\webapp\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alex_\Documents\toughtstorm\src\main\webapp" />
+      <recent name="C:\Users\alex_\Documents\toughtstorm\src\main\webapp\resources\js" />
+      <recent name="C:\Users\alex_\Documents\toughtstorm\src\main\webapp\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToughtStormTomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="toughtstorm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/toughtstorm_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_toughtstorm" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56941" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="toughtstorm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.11513688" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5532b2ab-a6d2-4635-9884-a68660e854d5" name="Default Changelist" comment="" />
+      <created>1574612460535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574612460535</updated>
+      <workItem from="1574612467762" duration="9144000" />
+      <workItem from="1574787900108" duration="1797000" />
+      <workItem from="1576773252416" duration="10059000" />
+      <workItem from="1576942116206" duration="4535000" />
+      <workItem from="1577971246891" duration="23398000" />
+      <workItem from="1578262168560" duration="504000" />
+      <workItem from="1578262706130" duration="4817000" />
+      <workItem from="1578327048511" duration="16249000" />
+      <workItem from="1578642560442" duration="254000" />
+      <workItem from="1578644882263" duration="3291000" />
+      <workItem from="1578682368105" duration="3593000" />
+      <workItem from="1579200721185" duration="34055000" />
+      <workItem from="1579267347249" duration="4775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1579270339302">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1579270339302" />
+    <state width="1295" height="529" key="GridCell.Tab.0.bottom" timestamp="1579270828323">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579270828323" />
+    <state width="1295" height="529" key="GridCell.Tab.0.center" timestamp="1579270828322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579270828322" />
+    <state width="1295" height="529" key="GridCell.Tab.0.left" timestamp="1579270828322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579270828322" />
+    <state width="1295" height="529" key="GridCell.Tab.0.right" timestamp="1579270828322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579270828322" />
+    <state width="1295" height="529" key="GridCell.Tab.1.bottom" timestamp="1579270842808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579270842808" />
+    <state width="1295" height="529" key="GridCell.Tab.1.center" timestamp="1579270842808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579270842808" />
+    <state width="1295" height="529" key="GridCell.Tab.1.left" timestamp="1579270842807">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579270842807" />
+    <state width="1295" height="529" key="GridCell.Tab.1.right" timestamp="1579270842808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579270842808" />
+    <state width="1295" height="529" key="GridCell.Tab.2.bottom" timestamp="1579270841547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579270841547" />
+    <state width="1295" height="529" key="GridCell.Tab.2.center" timestamp="1579270841547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1579270841547" />
+    <state width="1295" height="529" key="GridCell.Tab.2.left" timestamp="1579270841547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1579270841547" />
+    <state width="1295" height="529" key="GridCell.Tab.2.right" timestamp="1579270841547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1295" height="529" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1579270841547" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1579267373680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1579267373680" />
+    <state x="463" y="15" width="609" height="804" key="find.popup" timestamp="1579239460282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="463" y="15" width="609" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1579239460282" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1579230127658">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1579230127658" />
+  </component>
+</project>
